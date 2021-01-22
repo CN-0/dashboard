@@ -1,0 +1,195 @@
+{
+  "data": {
+    "Tiles": [
+      { "Today’s order": "200", "Current week order": "450" },
+      { "Today’s order ammount": "20000", "Current week amount": "45000" },
+      { "MTD order": "400", "Last Month order": "200" },
+      { "MTD order amount": "65000", "Last month amount": "45000" }
+    ],
+    "Orders": {
+      "Top5Orders": [
+        {
+          "Order No": "1",
+          "Total Amount": "2000",
+          "Total Quantity": "2",
+          "User Name": "Naveen"
+        },
+        {
+          "Order No": "2",
+          "Total Amount": "2010",
+          "Total Quantity": "3",
+          "User Name": "Suri"
+        },
+        {
+          "Order No": "3",
+          "Total Amount": "1500",
+          "Total Quantity": "1",
+          "User Name": "Rajesh"
+        },
+        {
+          "Order No": "4",
+          "Total Amount": "500",
+          "Total Quantity": "5",
+          "User Name": "Ravi"
+        },
+        {
+          "Order No": "5",
+          "Total Amount": "300",
+          "Total Quantity": "1",
+          "User Name": "Jay"
+        }
+      ],
+      "Bottom5Orders": [
+        {
+          "Order No": "92",
+          "Total Amount": "100",
+          "Total Quantity": "1",
+          "User Name": "Sean"
+        },
+        {
+          "Order No": "93",
+          "Total Amount": "150",
+          "Total Quantity": "3",
+          "User Name": "Suresh"
+        },
+        {
+          "Order No": "94",
+          "Total Amount": "800",
+          "Total Quantity": "5",
+          "User Name": "Ranek"
+        },
+        {
+          "Order No": "95",
+          "Total Amount": "200",
+          "Total Quantity": "5",
+          "User Name": "Ravi"
+        },
+        {
+          "Order No": "96",
+          "Total Amount": "300",
+          "Total Quantity": "1",
+          "User Name": "Jaesh"
+        }
+      ]
+    },
+    "Users": {
+      "Top5Users": [
+        {
+          "Username": "Jai",
+          "Total Amount": "5000",
+          "Total Quantity": "1",
+          "City": "Guntur"
+        },
+        {
+          "Username": "Ram",
+          "Total Amount": "4500",
+          "Total Quantity": "3",
+          "City": "Banglore"
+        },
+        {
+          "Username": "Sam",
+          "Total Amount": "4000",
+          "Total Quantity": "5",
+          "City": "Delhi"
+        },
+        {
+          "Username": "John",
+          "Total Amount": "3000",
+          "Total Quantity": "5",
+          "City": "Mumbai"
+        },
+        {
+          "Username": "Kevin",
+          "Total Amount": "2000",
+          "Total Quantity": "1",
+          "City": "Chennai"
+        }
+      ],
+      "Bottom5Users": [
+        {
+          "Username": "Lucky",
+          "Total Amount": "500",
+          "Total Quantity": "1",
+          "City": "Pune"
+        },
+        {
+          "Username": "Raman",
+          "Total Amount": "400",
+          "Total Quantity": "3",
+          "City": "Banglore"
+        },
+        {
+          "Username": "Samir",
+          "Total Amount": "300",
+          "Total Quantity": "5",
+          "City": "Lucknow"
+        },
+        {
+          "Username": "Jon",
+          "Total Amount": "200",
+          "Total Quantity": "5",
+          "City": "Tirupati"
+        },
+        {
+          "Username": "Ken",
+          "Total Amount": "100",
+          "Total Quantity": "1",
+          "City": "Chennai"
+        }
+      ]
+    },
+    "DetailOrderReport": [
+      {
+        "UserName": "Naveen",
+        "OrderNo": "1",
+        "OrderDate": "25-6-2018",
+        "Status": "Success",
+        "TotalAmount": "5000",
+        "TotalQty": "6",
+        "TotalProductCount": "3"
+      },
+      {
+        "UserName": "Jai",
+        "OrderNo": "26",
+        "OrderDate": "25-6-2012",
+        "Status": "Success",
+        "TotalAmount": "4000",
+        "TotalQty": "6",
+        "TotalProductCount": "2"
+      },
+      {
+        "UserName": "Dev",
+        "OrderNo": "5",
+        "OrderDate": "25-6-2019",
+        "Status": "Pending",
+        "TotalAmount": "1000",
+        "TotalQty": "6",
+        "TotalProductCount": "3"
+      },
+      {
+        "UserName": "Ravi",
+        "OrderNo": "52",
+        "OrderDate": "25-6-2018",
+        "Status": "Success",
+        "TotalAmount": "5000",
+        "TotalQty": "6",
+        "TotalProductCount": "3"
+      },
+      {
+        "UserName": "Kabir",
+        "OrderNo": "85",
+        "OrderDate": "25-6-2018",
+        "Status": "Failed",
+        "TotalAmount": "5000",
+        "TotalQty": "6",
+        "TotalProductCount": "3"
+      }
+    ],
+    "DailyOrderTrend": [
+      ["7/1/2020", 20000],
+      ["7/2/2020", 30000],
+      ["7/3/2020", 22000],
+      ["7/4/2020", 45000]
+    ]
+  }
+}
